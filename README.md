@@ -12,7 +12,7 @@ Code repository for the participation of team Ex Machina in Crowdhackathon Trans
 - OpenTripPlanner Android hacked fork
 - GTFS Message Broker (middleware)
 - Raspberry Pi in-vehicle WiFi Hotspot and Portal (Pirate Box hacked fork)
-- Arduino GSPS And Sensor data collector and transmitter 
+- Arduino GPS And Sensor data collector and transmitter 
 
 ## Documentation
 You can find a full tutorial for setting up the OpenTripPlanner server using Athens transport open data (GTFS) [here][4].
